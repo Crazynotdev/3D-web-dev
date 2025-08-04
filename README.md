@@ -1,2 +1,2 @@
 # 3D-web-dev
-3D web site for beginner by Crazy
+3D game play for beginner by Crazy
